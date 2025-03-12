@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img src="assets/header-animation.svg" width="100%">
 
@@ -14,6 +12,9 @@
 <img alt="npm" src="https://img.shields.io/npm/dt/@sunwood-ai-labs/ideagram-mcp-server">
 </p>
 
+<a href="https://glama.ai/mcp/servers/xzcx34d305">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/xzcx34d305/badge" alt="Ideogram Server MCP server" />
+</a>
 
 Ideogram APIを使用して画像生成機能を提供するModel Context Protocol (MCP) サーバー
 
