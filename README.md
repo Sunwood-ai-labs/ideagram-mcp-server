@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sunwood-ai-labs-ideagram-mcp-server-badge.png)](https://mseep.ai/app/sunwood-ai-labs-ideagram-mcp-server)
+
 
 
 <div align="center">
