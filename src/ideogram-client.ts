@@ -46,7 +46,7 @@ export class IdeogramClient {
       throw new Error('IDEOGRAM_API_KEY is required');
     }
     this.apiKey = apiKey;
-    this.outputDir = outputDir || path.join(process.cwd(), 'generated_images');
+    this.outputDir = outputDir || process.env.IDEOGRAM_OUTPUT_DIR || path.join(process.cwd(), 'generated_images');
     
     // 出力ディレクトリが存在しない場合は作成
     if (!fs.existsSync(this.outputDir)) {
